@@ -1,0 +1,1205 @@
+[1] "# Year_1"
+[1] "# Complete Cases (0 = incomeplete cases; 1 = complete cases)"
+
+    0     1 
+  471 19861 
+$total_2015
+
+Cohen's d
+
+d estimate: -0.338629913814 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.430069560412 -0.247190267215 
+
+
+$total_2016
+
+Cohen's d
+
+d estimate: -0.324837322707 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.416272241607 -0.233402403808 
+
+
+$total_2017
+
+Cohen's d
+
+d estimate: -0.361987941052 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.453436041812 -0.270539840292 
+
+
+$total_2018
+
+Cohen's d
+
+d estimate: -0.378246606969 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.469700924611 -0.286792289327 
+
+
+$total_2019
+
+Cohen's d
+
+d estimate: -0.38615571251 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.477613152962 -0.294698272058 
+
+
+$total_2020
+
+Cohen's d
+
+d estimate: -0.359821021678 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.451268314460 -0.268373728897 
+
+
+$total_2021
+
+Cohen's d
+
+d estimate: -0.366574650418 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.458024477402 -0.275124823434 
+
+
+$total_2022
+
+Cohen's d
+
+d estimate: -0.371677409882 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.463129182809 -0.280225636956 
+
+
+$fatal2015
+
+Cohen's d
+
+d estimate: -0.308438072251 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.399867625467 -0.217008519036 
+
+
+$fatal2016
+
+Cohen's d
+
+d estimate: -0.276950383616 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.368370412626 -0.185530354606 
+
+
+$fatal2017
+
+Cohen's d
+
+d estimate: -0.30432165589 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.395749905837 -0.212893405942 
+
+
+$fatal2018
+
+Cohen's d
+
+d estimate: -0.322037791064 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.413471774335 -0.230603807794 
+
+
+$fatal2019
+
+Cohen's d
+
+d estimate: -0.339948947796 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.431389056806 -0.248508838786 
+
+
+$fatal2020
+
+Cohen's d
+
+d estimate: -0.34903713742 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.440480481258 -0.257593793581 
+
+
+$fatal2021
+
+Cohen's d
+
+d estimate: -0.344217032086 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.435658649654 -0.252775414518 
+
+
+$fatal2022
+
+Cohen's d
+
+d estimate: -0.343013065033 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.434454255154 -0.251571874911 
+
+
+$nonfatal2015
+
+Cohen's d
+
+d estimate: -0.302912799028 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.394340606945 -0.211484991111 
+
+
+$nonfatal2016
+
+Cohen's d
+
+d estimate: -0.302180117568 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.393607696415 -0.210752538720 
+
+
+$nonfatal2017
+
+Cohen's d
+
+d estimate: -0.336724337789 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.428163319524 -0.245285356055 
+
+
+$nonfatal2018
+
+Cohen's d
+
+d estimate: -0.346176764785 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.437619081319 -0.254734448252 
+
+
+$nonfatal2019
+
+Cohen's d
+
+d estimate: -0.352420191767 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.443864761528 -0.260975622007 
+
+
+$nonfatal2020
+
+Cohen's d
+
+d estimate: -0.323452434141 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.414886889186 -0.232017979095 
+
+
+$nonfatal2021
+
+Cohen's d
+
+d estimate: -0.33299400034 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.424431691391 -0.241556309289 
+
+
+$nonfatal2022
+
+Cohen's d
+
+d estimate: -0.336614802665 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.428053746296 -0.245175859034 
+
+
+$CDIS_2015
+
+Cohen's d
+
+d estimate: -0.671608831864 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.780759749290 -0.562457914438 
+
+
+$CDIS_2016
+
+Cohen's d
+
+d estimate: -0.600791645514 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.710066316210 -0.491516974819 
+
+
+$CDIS_2017
+
+Cohen's d
+
+d estimate: -0.332423323902 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.437867550066 -0.226979097738 
+
+
+$CDIS_2018
+
+Cohen's d
+
+d estimate: -0.294247055577 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.400725546394 -0.187768564760 
+
+
+$CDIS_2019
+
+Cohen's d
+
+d estimate: -0.261268648306 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.366989222131 -0.155548074481 
+
+
+$CDIS_2020
+
+Cohen's d
+
+d estimate: -0.786013723241 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.918817340180 -0.653210106301 
+
+
+$CDIS_2021
+
+Cohen's d
+
+d estimate: -0.832985567265 (large)
+95 percent confidence interval:
+          lower           upper 
+-0.965228357481 -0.700742777049 
+
+
+$CDIS_2022
+
+Cohen's d
+
+d estimate: -0.779473599861 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.908315057628 -0.650632142094 
+
+
+$prowhite_2015
+
+Cohen's d
+
+d estimate: 0.235415138618 (small)
+95 percent confidence interval:
+         lower          upper 
+0.126436791533 0.344393485703 
+
+
+$prohispanic_2015
+
+Cohen's d
+
+d estimate: -0.235708211169 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.344686618527 -0.126729803810 
+
+
+$problack_2015
+
+Cohen's d
+
+d estimate: -0.111576949715 (negligible)
+95 percent confidence interval:
+            lower             upper 
+-0.22053653721287 -0.00261736221671 
+
+
+$prowhite_2016
+
+Cohen's d
+
+d estimate: 0.229128865668 (small)
+95 percent confidence interval:
+         lower          upper 
+0.119988566305 0.338269165030 
+
+
+$prohispanic_2016
+
+Cohen's d
+
+d estimate: -0.206048040744 (small)
+95 percent confidence interval:
+           lower            upper 
+-0.3151839617182 -0.0969121197688 
+
+
+$problack_2016
+
+Cohen's d
+
+d estimate: -0.105233903856 (negligible)
+95 percent confidence interval:
+            lower             upper 
+-0.21435614413059  0.00388833641793 
+
+
+$prowhite_2017
+
+Cohen's d
+
+d estimate: 0.0883905860518 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0170073521418  0.1937885242454 
+
+
+$prohispanic_2017
+
+Cohen's d
+
+d estimate: -0.254094583986 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.359518104938 -0.148671063034 
+
+
+$problack_2017
+
+Cohen's d
+
+d estimate: -0.175181871744 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.280590122823 -0.069773620664 
+
+
+$prowhite_2018
+
+Cohen's d
+
+d estimate: 0.067443005738 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0389988575121  0.1738848689881 
+
+
+$prohispanic_2018
+
+Cohen's d
+
+d estimate: -0.25041925191 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.356887085409 -0.143951418411 
+
+
+$problack_2018
+
+Cohen's d
+
+d estimate: -0.183859535679 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.2903144630532 -0.0774046083052 
+
+
+$prowhite_2019
+
+Cohen's d
+
+d estimate: 0.051074428638 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0552152734942  0.1573641307701 
+
+
+$prohispanic_2019
+
+Cohen's d
+
+d estimate: -0.27197795487 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.378299565444 -0.165656344295 
+
+
+$problack_2019
+
+Cohen's d
+
+d estimate: -0.163196854637 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.2694972998712 -0.0568964094027 
+
+
+$prowhite_2020
+
+Cohen's d
+
+d estimate: 0.323305634117 (small)
+95 percent confidence interval:
+         lower          upper 
+0.190687002786 0.455924265448 
+
+
+$prohispanic_2020
+
+Cohen's d
+
+d estimate: -0.311764183661 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.444380171591 -0.179148195732 
+
+
+$problack_2020
+
+Cohen's d
+
+d estimate: -0.173613883098 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.3062056854038 -0.0410220807921 
+
+
+$prowhite_2021
+
+Cohen's d
+
+d estimate: 0.316128439575 (small)
+95 percent confidence interval:
+         lower          upper 
+0.184100607088 0.448156272061 
+
+
+$prohispanic_2021
+
+Cohen's d
+
+d estimate: -0.344991280477 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.477026024596 -0.212956536357 
+
+
+$problack_2021
+
+Cohen's d
+
+d estimate: -0.175008437581 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.3070111624651 -0.0430057126975 
+
+
+$prowhite_2022
+
+Cohen's d
+
+d estimate: 0.3321224738 (small)
+95 percent confidence interval:
+         lower          upper 
+0.203465615325 0.460779332275 
+
+
+$prohispanic_2022
+
+Cohen's d
+
+d estimate: -0.391811104267 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.520484014004 -0.263138194529 
+
+
+$problack_2022
+
+Cohen's d
+
+d estimate: -0.16035343079 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.2889788603872 -0.0317280011935 
+
+
+$f_m_sexratio_2015
+
+Cohen's d
+
+d estimate: -0.582826262713 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.693593636327 -0.472058889098 
+
+
+$f_m_sexratio_2016
+
+Cohen's d
+
+d estimate: -0.638900648063 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.749868244451 -0.527933051676 
+
+
+$f_m_sexratio_2017
+
+Cohen's d
+
+d estimate: -0.870355993786 (large)
+95 percent confidence interval:
+          lower           upper 
+-0.977743592454 -0.762968395119 
+
+
+$f_m_sexratio_2018
+
+Cohen's d
+
+d estimate: -0.946732487581 (large)
+95 percent confidence interval:
+          lower           upper 
+-1.054958974336 -0.838506000826 
+
+
+$f_m_sexratio_2019
+
+Cohen's d
+
+d estimate: -0.952374498785 (large)
+95 percent confidence interval:
+          lower           upper 
+-1.060292636125 -0.844456361444 
+
+
+$f_m_sexratio_2020
+
+Cohen's d
+
+d estimate: -1.23710817159 (large)
+95 percent confidence interval:
+         lower          upper 
+-1.37298376102 -1.10123258215 
+
+
+$f_m_sexratio_2021
+
+Cohen's d
+
+d estimate: -1.24197064524 (large)
+95 percent confidence interval:
+         lower          upper 
+-1.37722576501 -1.10671552547 
+
+
+$f_m_sexratio_2022
+
+Cohen's d
+
+d estimate: -0.67125010915 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.801685819945 -0.540814398355 
+
+
+$pctYoungMale1524_2015
+
+Cohen's d
+
+d estimate: 1.01688118308 (large)
+95 percent confidence interval:
+         lower          upper 
+0.907476472297 1.126285893861 
+
+
+$pctLivingAlone_2015
+
+Cohen's d
+
+d estimate: -0.0073034106408 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.126961901093  0.112355079812 
+
+
+$PublicAssist_2015
+
+Cohen's d
+
+d estimate: -0.258273626974 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.377958687998 -0.138588565950 
+
+
+$totalpop_2015
+
+Cohen's d
+
+d estimate: -0.827894961064 (large)
+95 percent confidence interval:
+          lower           upper 
+-0.922710180638 -0.733079741490 
+
+
+$RentBurden_2015
+
+Cohen's d
+
+d estimate: -0.479455431728 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.605284557513 -0.353626305943 
+
+
+$pctYoungMale1524_2016
+
+Cohen's d
+
+d estimate: 1.04819687714 (large)
+95 percent confidence interval:
+         lower          upper 
+0.938601479258 1.157792275023 
+
+
+$pctLivingAlone_2016
+
+Cohen's d
+
+d estimate: -0.0597684638424 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1792119698551  0.0596750421703 
+
+
+$PublicAssist_2016
+
+Cohen's d
+
+d estimate: -0.226466639982 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.345929201256 -0.107004078708 
+
+
+$totalpop_2016
+
+Cohen's d
+
+d estimate: -0.804362791246 (large)
+95 percent confidence interval:
+          lower           upper 
+-0.899158842365 -0.709566740127 
+
+
+$RentBurden_2016
+
+Cohen's d
+
+d estimate: -0.411116897089 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.537944731872 -0.284289062305 
+
+
+$pctYoungMale1524_2017
+
+Cohen's d
+
+d estimate: 1.07723972292 (large)
+95 percent confidence interval:
+         lower          upper 
+0.971323403218 1.183156042615 
+
+
+$PctLivingAlone_2017
+
+Cohen's d
+
+d estimate: -0.25454457195 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.369154227704 -0.139934916195 
+
+
+$PublicAssist_2017
+
+Cohen's d
+
+d estimate: 0.30376593639 (small)
+95 percent confidence interval:
+         lower          upper 
+0.189144856390 0.418387016389 
+
+
+$totalpop_2017
+
+Cohen's d
+
+d estimate: -0.647291706111 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.738888434433 -0.555694977790 
+
+
+$RentBurden_2017
+
+Cohen's d
+
+d estimate: -0.62603776974 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.746507992181 -0.505567547298 
+
+
+$pctYoungMale1524_2018
+
+Cohen's d
+
+d estimate: 1.12898777008 (large)
+95 percent confidence interval:
+        lower         upper 
+1.02198022945 1.23599531071 
+
+
+$pctLivingAlone_2018
+
+Cohen's d
+
+d estimate: -0.25418224407 (small)
+95 percent confidence interval:
+         lower          upper 
+-0.37074159710 -0.13762289104 
+
+
+$PublicAssist_2018
+
+Cohen's d
+
+d estimate: 0.313687006776 (small)
+95 percent confidence interval:
+         lower          upper 
+0.197113834522 0.430260179030 
+
+
+$totalpop_2018
+
+Cohen's d
+
+d estimate: -0.62762178979 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.719205583847 -0.536037995733 
+
+
+$RentBurden_2018
+
+Cohen's d
+
+d estimate: -0.576199452905 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.697763682301 -0.454635223510 
+
+
+$pctYoungMale1524_2019
+
+Cohen's d
+
+d estimate: 1.09967744327 (large)
+95 percent confidence interval:
+         lower          upper 
+0.992849484089 1.206505402458 
+
+
+$pctLivingAlone_2019
+
+Cohen's d
+
+d estimate: -0.249913114716 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.365096226342 -0.134730003090 
+
+
+$PublicAssist_2019
+
+Cohen's d
+
+d estimate: 0.281238605141 (small)
+95 percent confidence interval:
+         lower          upper 
+0.166048609841 0.396428600440 
+
+
+$totalpop_2019
+
+Cohen's d
+
+d estimate: -0.590884332533 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.682445033570 -0.499323631496 
+
+
+$RentBurden_2019
+
+Cohen's d
+
+d estimate: -0.618081243943 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.738990783227 -0.497171704659 
+
+
+$pctYoungMale1524_2020
+
+Cohen's d
+
+d estimate: 1.59681631324 (large)
+95 percent confidence interval:
+        lower         upper 
+1.46331871682 1.73031390966 
+
+
+$pctLivingAlone_2020
+
+Cohen's d
+
+d estimate: -0.356658206183 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.520626743982 -0.192689668385 
+
+
+$PublicAssist_2020
+
+Cohen's d
+
+d estimate: -0.295004079539 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.458960852390 -0.131047306688 
+
+
+$totalpop_2020
+
+Cohen's d
+
+d estimate: -1.64805362479 (large)
+95 percent confidence interval:
+         lower          upper 
+-1.74082748456 -1.55527976502 
+
+
+$RentBurden_2020
+
+Cohen's d
+
+d estimate: -0.576050603474 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.783206213215 -0.368894993733 
+
+
+$pctYoungMale1524_2021
+
+Cohen's d
+
+d estimate: 1.54129168641 (large)
+95 percent confidence interval:
+        lower         upper 
+1.40844212696 1.67414124587 
+
+
+$pctLivingAlone_2021
+
+Cohen's d
+
+d estimate: -0.232184898141 (small)
+95 percent confidence interval:
+           lower            upper 
+-0.3917920034963 -0.0725777927861 
+
+
+$PublicAssist_2021
+
+Cohen's d
+
+d estimate: -0.618000413222 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.777706120066 -0.458294706379 
+
+
+$totalpop_2021
+
+Cohen's d
+
+d estimate: -1.59565551797 (large)
+95 percent confidence interval:
+         lower          upper 
+-1.68834279280 -1.50296824315 
+
+
+$RentBurden_2021
+
+Cohen's d
+
+d estimate: -0.727197938191 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.926827124505 -0.527568751876 
+
+
+$pctYoungMale1524_2022
+
+Cohen's d
+
+d estimate: 1.45273522358 (large)
+95 percent confidence interval:
+        lower         upper 
+1.32333747053 1.58213297663 
+
+
+$pctLivingAlone_2022
+
+Cohen's d
+
+d estimate: -0.135493760191 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.2906004329190  0.0196129125369 
+
+
+$PublicAssist_2022
+
+Cohen's d
+
+d estimate: -0.293963034034 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.449090753551 -0.138835314517 
+
+
+$totalpop_2022
+
+Cohen's d
+
+d estimate: -1.58427058767 (large)
+95 percent confidence interval:
+         lower          upper 
+-1.67693940901 -1.49160176632 
+
+
+$RentBurden_2022
+
+Cohen's d
+
+d estimate: -0.588081560229 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.769915701618 -0.406247418840 
+
+
+$GunS_Open_2015
+
+Cohen's d
+
+d estimate: -0.150127253054 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.2449278089269 -0.0553266971817 
+
+
+$GunS_Closed_2015
+
+Cohen's d
+
+d estimate: -0.0106869977935 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1054763602616  0.0841023646745 
+
+
+$GunS_Open_2016
+
+Cohen's d
+
+d estimate: -0.081993593647 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1767862551437  0.0127990678497 
+
+
+$GunS_Closed_2016
+
+Cohen's d
+
+d estimate: -0.037208151756 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1319981483239  0.0575818448119 
+
+
+$GunS_Open_2017
+
+Cohen's d
+
+d estimate: -0.090997714214 (negligible)
+95 percent confidence interval:
+            lower             upper 
+-0.18579115325264  0.00379572482461 
+
+
+$GunS_Closed_2017
+
+Cohen's d
+
+d estimate: -0.106608107136 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.2014030859826 -0.0118131282898 
+
+
+$GunS_Open_2018
+
+Cohen's d
+
+d estimate: -0.072212018677 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1670039272157  0.0225798898618 
+
+
+$GunS_Closed_2018
+
+Cohen's d
+
+d estimate: -0.0739002522435 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1686922839175  0.0208917794305 
+
+
+$GunS_Open_2019
+
+Cohen's d
+
+d estimate: -0.0560818759883 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1508727515039  0.0387089995274 
+
+
+$GunS_Closed_2019
+
+Cohen's d
+
+d estimate: -0.112975035681 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.2077707124008 -0.0181793589608 
+
+
+$GunS_Open_2020
+
+Cohen's d
+
+d estimate: 0.0531761822532 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0416145347833  0.1479668992898 
+
+
+$GunS_Closed_2020
+
+Cohen's d
+
+d estimate: -0.223829102496 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.318643414353 -0.129014790640 
+
+
+$GunS_Open_2021
+
+Cohen's d
+
+d estimate: -0.237690685537 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.332508190083 -0.142873180991 
+
+
+$GunS_Closed_2021
+
+Cohen's d
+
+d estimate: 0.0509840607938 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0438065422609  0.1457746638485 
+
+
+$GunS_Open_2022
+
+Cohen's d
+
+d estimate: -0.0399431718823 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1347332737860  0.0548469300214 
+
+
+$GunS_Closed_2022
+
+Cohen's d
+
+d estimate: -0.0483508113894 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1431412838680  0.0464396610893 
+
+
